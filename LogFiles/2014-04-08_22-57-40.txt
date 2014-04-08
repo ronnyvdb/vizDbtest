@@ -1,0 +1,209 @@
+
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: * Server start in progress....                       *
+Tue Apr 08 22:57:40 2014: *----------------------------------------------------*
+Tue Apr 08 22:57:40 2014: *                     Please wait                    *
+Tue Apr 08 22:57:40 2014: * (Do not end or cancel the VizDb.exe process during *
+Tue Apr 08 22:57:40 2014: *  this time)!                                       *
+Tue Apr 08 22:57:40 2014: *                                                    *
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: Loading GH indexes
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: Loading TypeCollection...... 0 entries
+Tue Apr 08 22:57:40 2014: Loading UserCollection...... 2 entries
+Tue Apr 08 22:57:40 2014: Loading GroupCollection..... 2 entries
+Tue Apr 08 22:57:40 2014: Loading MainIndex........... 0 entries
+Tue Apr 08 22:57:40 2014: Loading KeywordCollection... 0 entries
+Tue Apr 08 22:57:40 2014: Loading Reference........... 0 entries
+Tue Apr 08 22:57:40 2014: Loading FolderCollection.... 0 entries
+Tue Apr 08 22:57:40 2014: Loading LevelCollection..... 0 entries
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Last known server state:
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: !! ABNORMAL SERVER TERMINATION DETECTED !!
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: Starting check-restore of GH indexes:
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: ...FolderIndex 0 Errors found!
+Tue Apr 08 22:57:40 2014: ...UserIndex 0 Errors found!
+Tue Apr 08 22:57:40 2014: ...FileIndex 0 Errors found!
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Creating/loading advanced indexes
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Location:
+Tue Apr 08 22:57:40 2014: C:\DBTest\\VizDbUnitIndex\
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: IconSmall 0 entries
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: Software information:
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: Viz Graphic Hub version 2.3.2 
+Tue Apr 08 22:57:40 2014: (Made in Austria)
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: License information:
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: 5/4 free (five concurrent TCPIP connections)
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Data location:
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: C:\DBTest\
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Max. open files in total:
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: 2048
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Max. open files per session:
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: 16
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Starting HQL-DB-Engine
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Tablespace location:
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: C:\DBTest\VizDbTables
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Loading HQL indexes...:
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Loading.....: Database Fields: 0
+Tue Apr 08 22:57:40 2014: Loading.....: Database Tables: 0
+Tue Apr 08 22:57:40 2014: Building....: Database Name-Index: 0
+Tue Apr 08 22:57:40 2014: Building....: Database   RI-Index: 0
+Tue Apr 08 22:57:40 2014: Building....: Extended   DB-Index: 0
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Building System- and Standard-Tables
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Loading.....: System RI's: 0
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Building virtual File- and Foldertables:
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Done!
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Advanced server configuration:
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Server to Client timeout : (Standard) : 2
+Tue Apr 08 22:57:40 2014: Server to Server timeout : (Standard) : Ignored
+Tue Apr 08 22:57:40 2014: IIOP-Listen-Endpoint     : (Modified) : 0: 0
+Tue Apr 08 22:57:40 2014: Override TCPIP in IOR    : (Standard) : Disabled
+Tue Apr 08 22:57:40 2014: Server logging level     : (Standard) : Errors and warnings
+Tue Apr 08 22:57:40 2014: Show console window      : (Modified) : Enabled
+Tue Apr 08 22:57:40 2014: Log server state         : (Standard) : Disabled
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Connectivity settings:
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: Hostname:
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: ronny-pc
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: Servername:
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: VizDbServer
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: Namingservice location:
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: Localhost
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: Namingserivce Port:
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: 19396
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: Network interface/mapping:
+Tue Apr 08 22:57:40 2014: ------------------------------------------------------
+Tue Apr 08 22:57:40 2014: Determines automatically
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:40 2014: *                                                    *
+Tue Apr 08 22:57:40 2014: *            Server start was successful             *
+Tue Apr 08 22:57:40 2014: *                                                    *
+Tue Apr 08 22:57:40 2014: ******************************************************
+Tue Apr 08 22:57:45 2014: [0]-
+Tue Apr 08 22:57:45 2014: [0]-[1.OSM(1)-TOM(0)-OJM(0)/CJM(0)]-[2.1.2]-[3]-[4]-[5]-[6.2]-[7]-[8]-[9]-[10]-[11]-[OK] TC(45) TCC(0) HQL(8/6/31/0/0/0/0) TS(0/0) TF(0/0/0)
+Tue Apr 08 22:57:51 2014: [0]-[1.OSM(1)-TOM(0)-OJM(0)/CJM(0)]-[2.1.2]-[3]-[4]-[5]-[6.1.2]-[7]-[8]-[9]-[10]-[11]-[OK] TC(45) TCC(0) HQL(8/6/31/0/0/0/0) TS(0/0) TF(0/0/0)
+Tue Apr 08 22:58:52 2014: [0]-[1.OSM(1)-TOM(0)-OJM(0)/CJM(0)]-[2.1.2]-[3]-[4]-[5]-[6.1.2]-[7]-[8]-[9]-[10]-[11]-[OK] TC(70) TCC(0) HQL(8/6/31/0/0/0/0) TS(0/0) TF(0/0/0)
+Tue Apr 08 22:59:33 2014: Loading Type (48) Index.....(empty/created)
+Tue Apr 08 22:59:54 2014: [0]-[1.OSM(1)-TOM(0)-OJM(0)/CJM(0)]-[2.1.2]-[3]-[4]-[5]-[6.1.2]-[7]-[8]-[9]-[10]-[11]-[OK] TC(1091) TCC(1) HQL(220/152/97/0/0/0/0) TS(0/0) TF(3/2/1)
+Tue Apr 08 23:00:56 2014: [0]-[1.OSM(1)-TOM(0)-OJM(0)/CJM(0)]-[2.1.2]-[3]-[4]-[5]-[6.1.2]-[7]-[8]-[9]-[10]-[11]-[OK] TC(1093) TCC(1) HQL(220/152/97/0/0/0/0) TS(0/0) TF(3/2/1)
+Tue Apr 08 23:01:37 2014: ******************************************************
+Tue Apr 08 23:01:37 2014: * Server shutdown in progress....                    *
+Tue Apr 08 23:01:37 2014: *----------------------------------------------------*
+Tue Apr 08 23:01:37 2014: *                     Please wait                    *
+Tue Apr 08 23:01:37 2014: * (Do not end or cancel the VizDb.exe process during *
+Tue Apr 08 23:01:37 2014: *  this time)!                                       *
+Tue Apr 08 23:01:37 2014: *                                                    *
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Shutdown type:
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: !!! Emergency-Shutdown !!!
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Removing Server from Namingservice...
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Done!
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Removing all open sessions...
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Done!
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Data consistency check...
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: OK!
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Checking HQL-Engine state...
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: HQL-Engine stopped!
+Tue Apr 08 23:01:37 2014: ******************************************************
+Tue Apr 08 23:01:37 2014: Start vacuum all tables...
+Tue Apr 08 23:01:37 2014: ******************************************************
+Tue Apr 08 23:01:37 2014: Vacuum main table files : Total amount: 11
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Done : 1: sys_Scheduler_Task
+Tue Apr 08 23:01:37 2014: Done : 2: sys_Journal
+Tue Apr 08 23:01:37 2014: Done : 3: sys_AddOn_Template
+Tue Apr 08 23:01:37 2014: Done : 4: sys_AddOn
+Tue Apr 08 23:01:37 2014: Done : 5: sys_Scheduler_Exception
+Tue Apr 08 23:01:37 2014: Done : 6: viz_UserSettings
+Tue Apr 08 23:01:37 2014: Done : 7: sys_Alert
+Tue Apr 08 23:01:37 2014: Done : 8: sys_Application
+Tue Apr 08 23:01:37 2014: Done : 9: sys_AddOn_Template_GroupInfo
+Tue Apr 08 23:01:37 2014: Done : 10: viz_VRStudio_Setup
+Tue Apr 08 23:01:37 2014: Done : 11: ExtentedIndexCollection
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Checking index state...
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Last know state: ABNORMAL-SERVER-TERMINATION
+Tue Apr 08 23:01:37 2014: ******************************************************
+Tue Apr 08 23:01:37 2014: Starting check-restore of GH indexes:
+Tue Apr 08 23:01:37 2014: ******************************************************
+Tue Apr 08 23:01:37 2014: ...FolderIndex 0 Errors found!
+Tue Apr 08 23:01:37 2014: ...UserIndex 0 Errors found!
+Tue Apr 08 23:01:37 2014: ...FileIndex 0 Errors found!
+Tue Apr 08 23:01:37 2014: ******************************************************
+Tue Apr 08 23:01:37 2014: Starting index reorganisation...
+Tue Apr 08 23:01:37 2014: ******************************************************
+Tue Apr 08 23:01:37 2014: Reorganize main indexes : Total amount: 5
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: 1 of 5 : FolderCollection    : done
+Tue Apr 08 23:01:37 2014: 2 of 5 : TreeNodeCollection  : done
+Tue Apr 08 23:01:37 2014: 3 of 5 : KeywordCollection   : done
+Tue Apr 08 23:01:37 2014: 4 of 5 : ReferenceCollection : done
+Tue Apr 08 23:01:37 2014: 5 of 5 : FileUnitCollection : done
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Reorganize file indexes : Total amount: 1
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Done : 1: C:\DBTest\48FileCollection.vdb
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Reorganize HQL indexes  : Total amount: 3
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: 1 of 3 : TableCollection : done
+Tue Apr 08 23:01:37 2014: 2 of 3 : FieldCollection : done
+Tue Apr 08 23:01:37 2014: 3 of 3 : SysRICollection : done
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Start closing all indexes...
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Done!
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Writting last known server state...
+Tue Apr 08 23:01:37 2014: ------------------------------------------------------
+Tue Apr 08 23:01:37 2014: Done!
+Tue Apr 08 23:01:37 2014: ******************************************************
+Tue Apr 08 23:01:37 2014: *                                                    *
+Tue Apr 08 23:01:37 2014: * Server shutdown finished successfully.             *
+Tue Apr 08 23:01:37 2014: *                                                    *
+Tue Apr 08 23:01:37 2014: ******************************************************
